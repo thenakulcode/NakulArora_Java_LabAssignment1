@@ -41,4 +41,4 @@ Exit Enter your choice: 2 Roll No: 101 Name: Rahul Course: B.Tech Marks: 87.0 Gr
 
 Enter your choice: 3
 
-👨‍💻 Author Lakshita kalra
+👨‍💻 Author Nakul Arora
